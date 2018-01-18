@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EB76DB2E-8625-5FEB-D987-B02298B90405}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shooter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="11" Column="3" />
+      <File FileName="Assets/Scripts/Score.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="19" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
