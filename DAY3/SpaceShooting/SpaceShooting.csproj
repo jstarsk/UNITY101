@@ -108,7 +108,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Manager.cs" />
     <Compile Include="Assets\Nebula Skyboxes\Scripts\ColorPicker_Material.cs" />
     <Compile Include="Assets\Nebula Skyboxes\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Nebula Skyboxes\Scripts\SmoothCameraOrbit.cs" />
@@ -117,10 +116,11 @@
     <Compile Include="Assets\PlanetGenerator\Demo\Scripts\PlanetControl.cs" />
     <Compile Include="Assets\PlanetGenerator\Demo\Scripts\Rotate.cs" />
     <Compile Include="Assets\Scripts\CameraRotation.cs" />
+    <Compile Include="Assets\Scripts\Manager.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\ScoreKeeper.cs" />
     <Compile Include="Assets\Scripts\Shooter.cs" />
-    <Compile Include="Assets\_SceneManager.cs" />
+    <Compile Include="Assets\Scripts\_SceneManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Nebula Skyboxes\Nebula Skyboxes - Readme.txt" />
