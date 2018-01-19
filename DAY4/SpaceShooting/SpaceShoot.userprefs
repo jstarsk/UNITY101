@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{EE845010-7B73-2921-0F0B-0785A4352DD4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Score.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraRotation.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="16" Column="39" />
+      <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="17" Column="3" />
+      <File FileName="Assets/Scripts/Score.cs" Line="17" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SpaceShoot PreferredExecutionTarget="Unity.Editor" />
+</Properties>
