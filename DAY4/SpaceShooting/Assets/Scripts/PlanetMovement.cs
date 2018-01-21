@@ -16,7 +16,6 @@ public class PlanetMovement : MonoBehaviour {
 	void Start () {
         
         counter = transform.position.y;
-
 	}
 	
 	// Update is called once per frame
